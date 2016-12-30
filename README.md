@@ -35,7 +35,7 @@ $ python app.py
 
 ### heroku button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hiroyamaa/line-bot-sdk-python)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MakrisHuang/WeatherBot_Sample)
 
 then set Webhook URL in your line developer page: `https://{YOUR_APP}.herokuapp.com/callback`
 
