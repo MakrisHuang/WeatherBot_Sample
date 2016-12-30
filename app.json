@@ -1,6 +1,6 @@
 {
-    "name": "flask echo: LINE Messaging API",
-    "description": "This is a sample application for the LINE Messaging API",
+    "name": "Weather Line Bot: LINE Messaging API",
+    "description": "This is a sample weather request application for the LINE Messaging API",
     "keywords": ["chatbot", "line", "python"],
     "repository": "https://github.com/krrrr38/line-bot-sdk-python",
     "env": {
