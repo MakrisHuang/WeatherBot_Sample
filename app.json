@@ -12,7 +12,6 @@
             "description": "LINE bot Channel secret from the Channel Console",
             "required":  true
         },
-        {
         "WEATHER_CENTER_BUREAU_KEY":{
             "description": "Authorization key for accessing open weather data",
             "require": true
