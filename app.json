@@ -1,6 +1,6 @@
 {
     "name": "Weather Line Bot",
-    "description": "This is a sample weather request application for the LINE Messaging API",
+    "description": "This is a weather request app for the LineBot",
     "keywords": ["chatbot", "line", "python"],
     "repository": "https://github.com/krrrr38/line-bot-sdk-python",
     "env": {
